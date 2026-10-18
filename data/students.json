@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mhs-001",
+    "nim": "202470233012",
+    "name": "WULAN FATHUL WINA",
+    "studyProgram": "Komunikasi dan Penyiaran Islam",
+    "faculty": "Fakultas Tarbiyah dan Dakwah",
+    "semester": 6,
+    "phone": "083870838747",
+    "email": "wulan.fathul@alfithrah.ac.id",
+    "address": "Jl. Jagasatru Gg.Langgar 2 RT.02 RW.03 Dusun 0 RT 002 RW 003 Kel.Jagasatra Kec. Pekalipan Kota Cirebon",
+    "status": "Aktif"
+  },
+  {
+    "id": "mhs-002",
+    "nim": "202470233005",
+    "name": "AHMAD FAUZI ASH-SHIDDIQ",
+    "studyProgram": "Komunikasi dan Penyiaran Islam",
+    "faculty": "Fakultas Tarbiyah dan Dakwah",
+    "semester": 8,
+    "phone": "081234567890",
+    "email": "ahmad.fauzi@alfithrah.ac.id",
+    "address": "Jl. Kedinding Lor No. 45, Kenjeran, Surabaya, Jawa Timur",
+    "status": "Aktif"
+  },
+  {
+    "id": "mhs-003",
+    "nim": "202470233018",
+    "name": "SITI NUR AISYAH",
+    "studyProgram": "Komunikasi dan Penyiaran Islam",
+    "faculty": "Fakultas Tarbiyah dan Dakwah",
+    "semester": 6,
+    "phone": "085712345678",
+    "email": "siti.aisyah@alfithrah.ac.id",
+    "address": "Jl. Rangkah VI No. 12, Tambaksari, Surabaya",
+    "status": "Aktif"
+  },
+  {
+    "id": "mhs-004",
+    "nim": "202470233022",
+    "name": "MUHAMMAD RIZAL MAULANA",
+    "studyProgram": "Komunikasi dan Penyiaran Islam",
+    "faculty": "Fakultas Tarbiyah dan Dakwah",
+    "semester": 4,
+    "phone": "082198765432",
+    "email": "rizal.maulana@alfithrah.ac.id",
+    "address": "Jl. Nyamplungan No. 88, Ampel, Semampir, Surabaya",
+    "status": "Aktif"
+  },
+  {
+    "id": "mhs-005",
+    "nim": "202470233031",
+    "name": "FATIMATUZ ZAHRA",
+    "studyProgram": "Komunikasi dan Penyiaran Islam",
+    "faculty": "Fakultas Tarbiyah dan Dakwah",
+    "semester": 4,
+    "phone": "087811223344",
+    "email": "fatimatuz.zahra@alfithrah.ac.id",
+    "address": "Jl. Pegirian No. 102, Simokerto, Surabaya",
+    "status": "Aktif"
+  }
+]

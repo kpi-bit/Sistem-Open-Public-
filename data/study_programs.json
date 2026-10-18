@@ -1,0 +1,52 @@
+[
+  {
+    "id": "prodi-001",
+    "code": "KPI",
+    "name": "Komunikasi dan Penyiaran Islam",
+    "faculty": "Fakultas Tarbiyah dan Dakwah",
+    "degreeLevel": "S1",
+    "headOfProgram": "Muhammad Munir, M.Sos.",
+    "headNidn": "2126059505",
+    "accreditedStatus": "Unggul"
+  },
+  {
+    "id": "prodi-002",
+    "code": "MD",
+    "name": "Manajemen Dakwah",
+    "faculty": "Fakultas Tarbiyah dan Dakwah",
+    "degreeLevel": "S1",
+    "headOfProgram": "Dr. Ahmad Baihaqi, M.Pd.",
+    "headNidn": "2104058301",
+    "accreditedStatus": "Baik Sekali"
+  },
+  {
+    "id": "prodi-003",
+    "code": "PAI",
+    "name": "Pendidikan Agama Islam",
+    "faculty": "Fakultas Tarbiyah dan Dakwah",
+    "degreeLevel": "S1",
+    "headOfProgram": "Dr. H. Mahrus, M.Ag.",
+    "headNidn": "2112097701",
+    "accreditedStatus": "Unggul"
+  },
+  {
+    "id": "prodi-004",
+    "code": "IAT",
+    "name": "Ilmu Al-Qur'an dan Tafsir",
+    "faculty": "Fakultas Ushuluddin",
+    "degreeLevel": "S1",
+    "headOfProgram": "KH. Misbahul Munir, M.Th.I.",
+    "headNidn": "2103027502",
+    "accreditedStatus": "Baik Sekali"
+  },
+  {
+    "id": "prodi-005",
+    "code": "AS",
+    "name": "Hukum Keluarga Islam (Ahwal Syakhshiyyah)",
+    "faculty": "Fakultas Syariah",
+    "degreeLevel": "S1",
+    "headOfProgram": "Dr. Abdul Halim, M.H.I.",
+    "headNidn": "2118068001",
+    "accreditedStatus": "Baik Sekali"
+  }
+]

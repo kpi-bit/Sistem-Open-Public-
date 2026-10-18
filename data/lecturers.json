@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dsn-001",
+    "nidn": "2126059505",
+    "name": "Muhammad Munir, M.Sos.",
+    "studyProgram": "Komunikasi dan Penyiaran Islam",
+    "academicRole": "Ketua Program Studi KPI / Lektor",
+    "phone": "081233445566",
+    "email": "munir.fe14@gmail.com",
+    "status": "Aktif"
+  },
+  {
+    "id": "dsn-002",
+    "nidn": "2115088201",
+    "name": "Dr. Fathur Rohman, M.Si.",
+    "studyProgram": "Komunikasi dan Penyiaran Islam",
+    "academicRole": "Dosen Tetap KPI / Pembimbing Magang",
+    "phone": "081399887766",
+    "email": "fathur.rohman@alfithrah.ac.id",
+    "status": "Aktif"
+  },
+  {
+    "id": "dsn-003",
+    "nidn": "2108047902",
+    "name": "KH. Syamsul Huda, M.Fil.I.",
+    "studyProgram": "Komunikasi dan Penyiaran Islam",
+    "academicRole": "Dosen Tetap Dakwah & Retorika Islam",
+    "phone": "081255667788",
+    "email": "syamsul.huda@alfithrah.ac.id",
+    "status": "Aktif"
+  },
+  {
+    "id": "dsn-004",
+    "nidn": "2119078601",
+    "name": "Nurul Hidayati, M.I.Kom.",
+    "studyProgram": "Komunikasi dan Penyiaran Islam",
+    "academicRole": "Dosen Produksi Siaran & Jurnalistik Digital",
+    "phone": "085733445566",
+    "email": "nurul.hidayati@alfithrah.ac.id",
+    "status": "Aktif"
+  }
+]

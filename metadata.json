@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Persuratan Digital IAF",
+  "description": "Sistem Informasi Persuratan Digital Institut Al Fithrah Surabaya untuk pengelolaan, pencatatan, dan pengarsipan dokumen surat resmi serta berkas PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

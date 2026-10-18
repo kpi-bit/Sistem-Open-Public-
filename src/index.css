@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+/* Official Document Print Styles */
+@media print {
+  /* Hide all app chrome, navigation, headers, footers, buttons */
+  body * {
+    visibility: hidden;
+  }
+  
+  /* Show only the printable letter container */
+  #printable-official-letter,
+  #printable-official-letter * {
+    visibility: visible;
+  }
+
+  #printable-official-letter {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 20mm 18mm !important;
+    margin: 0 !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  @page {
+    size: A4 portrait;
+    margin: 0;
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "evt-001",
+    "title": "KPI FEST 2026",
+    "category": "Kemahasiswaan",
+    "date": "2026-10-28",
+    "time": "08:30 WIB",
+    "location": "Lantai 2 Universitas Al-Fithrah",
+    "organizer": "HIMA Prodi Komunikasi dan Penyiaran Islam",
+    "picName": "Wulan Fathul Wina",
+    "description": "Lomba presenter TV, film pendek dakwah santri, dan kompetisi podcast penyiaran Islam tingkat perguruan tinggi se-Indonesia.",
+    "status": "Akan Datang"
+  },
+  {
+    "id": "evt-002",
+    "title": "Workshop Produksi Konten Video Kreatif & Public Speaking",
+    "category": "Seminar & Workshop",
+    "date": "2026-11-15",
+    "time": "09:00 WIB",
+    "location": "Laboratorium Multimedia & Studio Podcast KPI",
+    "organizer": "Laboratorium Penyiaran KPI UAF",
+    "picName": "Nurul Hidayati, M.I.Kom.",
+    "description": "Pelatihan intensif teknik rekaman suara radio, penyutradaraan video pendek, dan public speaking dakwah di era konvergensi media.",
+    "status": "Akan Datang"
+  },
+  {
+    "id": "evt-003",
+    "title": "Munaqosyah Ujian Skripsi & Tugas Akhir KPI Gelombang I",
+    "category": "Ujian & Sidang",
+    "date": "2026-12-02",
+    "time": "08:00 WIB",
+    "location": "Ruang Sidang Munaqosyah Gedung B Lt. 2",
+    "organizer": "Program Studi KPI",
+    "picName": "Muhammad Munir, M.Sos.",
+    "description": "Pelaksanaan ujian skripsi dan penentuan kelulusan sarjana strata satu (S1) mahasiswa angkatan akhir Prodi KPI.",
+    "status": "Akan Datang"
+  },
+  {
+    "id": "evt-004",
+    "title": "Haul Akbar & Peringatan Maulid Nabi Muhammad SAW",
+    "category": "Dakwah & Religi",
+    "date": "2026-12-20",
+    "time": "19:30 WIB",
+    "location": "Masjid Kampus & Pondok Pesantren Assalafi Al Fithrah",
+    "organizer": "Keluarga Besar Universitas Al-Fithrah",
+    "picName": "Dr. Fathur Rohman, M.Si.",
+    "description": "Majelis Dzikir, Maulidurrasul SAW, dan pembacaan Manaqib Syaikh Abdul Qodir Al Jilani ra. bersama sivitas akademika dan jamaah.",
+    "status": "Akan Datang"
+  },
+  {
+    "id": "evt-005",
+    "title": "Stadium General: Literasi Media Digital Menuju Era Society 5.0",
+    "category": "Akademik",
+    "date": "2027-01-10",
+    "time": "09:00 WIB",
+    "location": "Gedung Serbaguna Universitas Al-Fithrah",
+    "organizer": "Fakultas Tarbiyah dan Dakwah",
+    "picName": "Muhammad Munir, M.Sos.",
+    "description": "Kuliah tamu perdana semester genap mengundang praktisi media nasional dan KPI Daerah Jawa Timur.",
+    "status": "Akan Datang"
+  }
+]
